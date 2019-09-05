@@ -4,7 +4,7 @@ header("Access-Control-Allow-Origin:*");
 
 echo "<inforuang>";
 
-	$host="https://github.com/ibnuxc/ibnu1014/blob/master/inforuang_ibnu.php";
+	$host="localhost";
     $user="root";
     $passwd="";
     $db="inforuang_ibnu";
